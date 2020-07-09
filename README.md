@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+I am Gökhan. I am a CS student at Hacettepe University. 
+
 <!--
 **gozeloglu/gozeloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
