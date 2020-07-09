@@ -1,6 +1,11 @@
 ### Hi there 👋
 
-I am Gökhan. I am a CS student at Hacettepe University. 
+I am Gökhan. I am a junior CS student at [Hacettepe University](https://www.cs.hacettepe.edu.tr). I am interested in mobile application, creating user-friendly command line tools. Also, I want to improve myself in backend technologies. I used [Python](https://github.com/python), [Java](https://www.java.com/tr/download/), [Dart](https://github.com/dart-lang) and [Flutter](https://github.com/flutter/flutter) on my projects. If you want to contact with me, feel free to write via my [email](gozeloglu@gmail.com). I am ready to help to you in open-source projects.  
+
+- 🔭 I’m currently working on [TUBITAK BILGEM YTE](https://yte.bilgem.tubitak.gov.tr) as a full-stack web developer intern.
+- 🌱 I’m currently learning [React](https://github.com/facebook/react).
+- 🤔 I’m looking for help with React and JavaScript.
+- 📫 How to reach me: [gozeloglu@gmail.com](gozeloglu@gmail.com)
 
 <!--
 **gozeloglu/gozeloglu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
