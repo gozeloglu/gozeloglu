@@ -5,7 +5,7 @@
 I am Gökhan. I am a senior CS student at [Hacettepe University](https://www.cs.hacettepe.edu.tr). I am interested in mobile development, creating user-friendly command line tools, and backend development. I used [Python](https://github.com/python), [Java](https://www.java.com/tr/download/), [Dart](https://github.com/dart-lang) and [Flutter](https://github.com/flutter/flutter) on my projects. If you want to contact with me, feel free to write via my [email](gozeloglu@gmail.com). I am ready to help to you in open-source projects.
 
 - :dart: I've completed my 2020 summer internship in [TUBITAK BILGEM YTE](https://yte.bilgem.tubitak.gov.tr) as a software engineer intern.
-- 🔭 I’m currently working on nowhere. I am looking for part-time software engineering positions. You can contact with me for part-tine job oppurtunities. 
+- 🔭 I’m currently working on nowhere. I am looking for part-time software engineering positions. You can contact with me for part-time job opportunities. 
 - 🌱 I’m currently learning [Flutter](https://github.com/flutter/flutter).
 - 🤔 I’m looking for help with mobile and backend development.
 - 📫 How to reach me: [gozeloglu@gmail.com](gozeloglu@gmail.com)
