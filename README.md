@@ -2,12 +2,12 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gozeloglu" alt="gozeloglu" /> </p>
 
-I am Gökhan. I am a senior CS student at [Hacettepe University](https://www.cs.hacettepe.edu.tr). I am interested in mobile development, creating user-friendly command line tools, and backend development. I used [Python](https://github.com/python), [Java](https://www.java.com/tr/download/), [Dart](https://github.com/dart-lang) and [Flutter](https://github.com/flutter/flutter) on my projects. If you want to contact with me, feel free to write via my [email](gozeloglu@gmail.com). I am ready to help to you in open-source projects.
+I am Gökhan. I am a senior CS student at [Hacettepe University](https://www.cs.hacettepe.edu.tr). I am interested in backend development, distributed systems, and mobile development. I used [Python](https://github.com/python), [Java](https://www.java.com/tr/download/), [Dart](https://github.com/dart-lang) and [Flutter](https://github.com/flutter/flutter) on my projects. If you want to contact with me, feel free to write via my [email](gozeloglu@gmail.com). I am ready to help to you in open-source projects.
 
-- :dart: I've completed my 2020 summer internship in [TUBITAK BILGEM YTE](https://yte.bilgem.tubitak.gov.tr) as a software engineer intern.
-- 🔭 I’m currently working on nowhere. I am looking for part-time software engineering positions. You can contact with me for part-time job opportunities. 
-- 🌱 I’m currently learning [Flutter](https://github.com/flutter/flutter).
-- 🤔 I’m looking for help with mobile and backend development.
+- :dart: I am working as a part-time software engineer at [TUBITAK BILGEM YTE](https://github.com/tubitak-bilgem-yte). 
+- 🔭 I’m currently working on blockchain, automata theory, computer networks, and backend development.
+- 🌱 I’m currently learning blockhain, automata theory, computer networks, distributed systems, and microservices.
+- 🤔 I’m looking for help with blockchain and distributed systems.
 - 📫 How to reach me: [gozeloglu@gmail.com](gozeloglu@gmail.com)
 
 <!--
