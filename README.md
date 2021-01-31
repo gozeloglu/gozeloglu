@@ -5,9 +5,9 @@
 I am Gökhan. I am a senior CS student at [Hacettepe University](https://www.cs.hacettepe.edu.tr). I am interested in backend development, distributed systems, and mobile development. I used [Python](https://github.com/python), [Java](https://www.java.com/tr/download/), [Dart](https://github.com/dart-lang), [Shell Script](https://www.shellscript.sh/), and [Flutter](https://github.com/flutter/flutter) on my projects. If you want to contact with me, feel free to write via my [email](gozeloglu@gmail.com). I am ready to help to you in open-source projects.
 
 - :dart: I am working as a part-time software engineer at [TUBITAK BILGEM YTE](https://github.com/tubitak-bilgem-yte). 
-- 🔭 I’m currently working on Java Spring, Shell Script, and Flutter.
-- 🌱 I’m currently learning Shell Script and computer networks.
-- 🤔 I’m looking for help with blockchain and distributed systems.
+- 🔭 I’m currently working on Java Spring.
+<!--- 🌱 I’m currently learning Shell Script.
+- 🤔 I’m looking for help with blockchain and distributed systems..-->
 - ⚡ Fun fact: I prefer to CLI over GUI. :man_shrugging:
 
 <p align="center">
