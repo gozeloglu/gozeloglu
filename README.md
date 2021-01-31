@@ -6,9 +6,10 @@ I am Gökhan. I am a senior CS student at [Hacettepe University](https://www.cs.
 
 - :dart: I am working as a part-time software engineer at [TUBITAK BILGEM YTE](https://github.com/tubitak-bilgem-yte). 
 - 🔭 I’m currently working on Java Spring.
+- ⚡ Fun fact: I prefer to CLI over GUI. :man_shrugging:
 <!--- 🌱 I’m currently learning Shell Script.
 - 🤔 I’m looking for help with blockchain and distributed systems..-->
-- ⚡ Fun fact: I prefer to CLI over GUI. :man_shrugging:
+
 
 <p align="center">
 <a href="https://www.linkedin.com/in/gokhanozeloglu/"><img alt="LinkedIn" width="35" height="35" src="https://image.flaticon.com/icons/svg/174/174857.svg"></a>
