@@ -6,7 +6,7 @@ I am Gökhan. I am a senior CS student at [Hacettepe University](https://www.cs.
 
 - :dart: I am working as a part-time software engineer at [TUBITAK BILGEM YTE](https://github.com/tubitak-bilgem-yte). 
 - 🔭 I’m currently working on Java Spring.
-- 🌱 I’m currently learning JavaScript, Node.Js, SQL.
+- 🌱 I’m currently learning JavaScript, Node.Js, and SQL.
 - ⚡ Fun fact: I prefer to CLI over GUI. :man_shrugging:
 <!--- 🌱 I’m currently learning Shell Script.
 - 🤔 I’m looking for help with blockchain and distributed systems..-->
