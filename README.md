@@ -2,11 +2,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=gozeloglu" alt="gozeloglu" /> </p>
 
-I am Gökhan. I am a senior CS student at [Hacettepe University](https://www.cs.hacettepe.edu.tr). I am interested in backend development. I used [Python](https://github.com/python), [Java](https://www.java.com/tr/download/), [Node.Js](https://github.com/nodejs), [Dart](https://github.com/dart-lang), [Shell Script](https://www.shellscript.sh/), and [Flutter](https://github.com/flutter/flutter) on my projects. If you want to contact with me, feel free to write via my [email](gozeloglu@gmail.com). I am ready to help to you in open-source projects.
+I am Gökhan. I have graduated from [Hacettepe University Computer Science/Engineering](https://www.cs.hacettepe.edu.tr). I am interested in backend development. I used [Python](https://github.com/python), [Java](https://www.java.com/tr/download/), [Node.Js](https://github.com/nodejs), [Dart](https://github.com/dart-lang), [Shell Script](https://www.shellscript.sh/), and [Flutter](https://github.com/flutter/flutter) on my projects. If you want to contact with me, feel free to write via my [email](gozeloglu@gmail.com). I am ready to help to you in open-source projects.
 
 - :dart: I am working as a part-time software engineer at [TUBITAK BILGEM YTE](https://github.com/tubitak-bilgem-yte). 
 - 🔭 I’m currently working on Java Spring.
-- 🌱 I’m currently learning JavaScript, Node.Js, and SQL.
+- 🌱 I’m currently learning Go.
 - ⚡ Fun fact: I prefer to CLI over GUI. :man_shrugging:
 <!--- 🌱 I’m currently learning Shell Script.
 - 🤔 I’m looking for help with blockchain and distributed systems..-->
